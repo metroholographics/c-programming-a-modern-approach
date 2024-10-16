@@ -5,8 +5,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-bool		play_game(void);
-int			roll_dice(void);
+bool	play_game(void);
+int		roll_dice(void);
 
 int
 main(void)
