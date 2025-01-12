@@ -8,3 +8,4 @@ Collection of projects made while studying http://knking.com/books/c2/
 - craps:			16/10/24
 - pokerhands:		04/01/25
 - numberdisplay:	06/01/25
+- max_min:			12/01/25
